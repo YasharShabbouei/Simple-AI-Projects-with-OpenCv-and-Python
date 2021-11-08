@@ -1,0 +1,1 @@
+# Simple-AI-Projects-with-OpenCv-and-Python
